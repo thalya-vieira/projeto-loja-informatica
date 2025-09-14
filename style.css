@@ -195,9 +195,7 @@ footer p{
         text-align: start;
         
     }
-    a{
-        width: 90%;
-    }
+    
     main{
         display: grid;
         grid-template-columns: 1fr;
